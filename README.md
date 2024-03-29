@@ -9,3 +9,4 @@ enterprise software solutions
 processes to improve efficiency and overall value to customers.
 - The method for this is to conduct a predictive modeling (logistic regression) to see which factors affect customer churn the most.
 Then suggest recommenedations for SAP how to intergrate AI to decrease customer churn based on those predictions.
+- Award: Our team was selected to enter the final round and was placed at top 5 
